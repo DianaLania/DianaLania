@@ -9,24 +9,15 @@ My name is Diana Lania. I am a software tester.
   - [GitHub](https://github.com/MagdalenaOlak) - A provider of Internet hosting for software development and version control using Git
   - [Jira](https://www.atlassian.com/software/jira0), -[Trello](https://trello.com/) - Issue tracking and project management tool for developers
   - [Postman](https://www.postman.com/) - Testing tool for REST API
-  - [TestLink](https://bitnami.com/stack/testlink) - We-based open-source test management tool
-  - [Selenium IDE](https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd) - Open source record and playback test automation for the web
-  - [SoupUI](https://www.soapui.org/tools/soapui/) - Testing tool for SOAP and REST APIs  
-  - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl) - Exploratory testing assistant for Chrome and Firefox
   - [Mouse Recorder](https://www.mouserecorder.com/) - mouse and keyboard recording macro
   - [xPath Finder](https://chrome.google.com/webstore/detail/xpath-finder/ihnknokegkbpmofmafnkoadfjkhlogph) - xPath finding tool
-  - [Xmind](https://www.xmind.net/), [Mind Meister](https://www.mindmeister.com/) - Mind mapping softwares
-  - [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
-  - [bpmn.io](https://bpmn.io) - Simple web-based tooling for BPMN, DMN and CMMN
-  - [Eclipse Modeling Tools](https://www.eclipse.org/downloads/packages/release/juno/sr1/eclipse-modeling-tools) - Tools and runtimes for building model-based applications
-  - [VMware Workstation Player](https://www.vmware.com/products/workstation-player.html) - allows you to run a second, isolated operating system on a single PC
-  - [VirtualBox](https://www.virtualbox.org) - a free and open-source hosted hypervisor
   
 
 ## Tech skills
-  - C# basics
+  - SQL 
+  - Python
+  - Jupyterlab
   - Java basics
-  - SQL
   - GIT
   - HTML
   - CSS    
@@ -35,41 +26,8 @@ My name is Diana Lania. I am a software tester.
   - Software testing
   - Reporting bugs      
   - DevTools
-  - Finding unique CSS Selectors and xPaths
-  - Creating diagrams and decision tables    
-  - UML
-  - PHP basics
-  - Ability to set up virtual machines (e.g. Linux) 
-  
-  
-## Professional Education
-2020.10 - 2021.06 - University of Information Technology and Management in Rzeszów, 
-Postgraduate – Software Tester
 
-    - Software testing planning
-    - Software manufacturing methods
-    - The role of a software tester in software projects
-    - Introduction to software testing
-    - Organisation of the software testing environment
-    - Testing applications for mobile devices
-    - Automation of tests
-    - Good practices in software testing
-    - Selected management elements in IT projects
-    - Testers in work teams
-      
-2014.10 - 2015.06 - Catholic University of Lublin, Poland - Postgraduate studies of Internet Technology and Multimedia Information Processing
-    
-    - Website design with the use of HTML and CSS
-    - Programming in PHP
-    - Database design (SQL/MySQL)
-    - Creating web applications using PHP frameworks
-    - Flash animations and applications
-    - Interactive web applications
-    - The basics of entrepreneurship for the IT industry
-    - Processing of computer graphics
-    - Creating websites in the content management system (CMS)
-    - Websites administration and publishing
-    - Photography workshops
+
 
 ## Certificates
   - [Java Certification Course](https://www.programminghub.io/certificates) - ID: 1610296979565
@@ -83,8 +41,6 @@ Postgraduate – Software Tester
   - [Postman - REST API testing](https://www.udemy.com/course/kurs-postman/) - ude.my/UC-V6YBXFPW
   - [SQL](https://www.sololearn.com)
   - [Git dla Testerów](https://jaktestowac.pl/git/)  
-
-
 
 
 
