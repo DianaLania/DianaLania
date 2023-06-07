@@ -10,7 +10,7 @@ My name is Diana Lania. I am a software tester.
   - [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/), [Zephyr scale](https://smartbear.com/test-management/zephyr-scale/) - Issue tracking and project management tool for developers
   - [Confluence](https://www.atlassian.com/software/confluence/) - documentation management
   - [MySQL](https://www.mysql.com/) - Database management system
-  - [SQL Developer] (https://www.oracle.com/be/database/sqldeveloper/) - Integrated development environment
+  - [SQL Developer](https://www.oracle.com/be/database/sqldeveloper/) - Integrated development environment
   - [Postman](https://www.postman.com/) - Testing tool for REST API
   - [Mouse Recorder](https://www.mouserecorder.com/) - Mouse and keyboard recording macro
   - [Blazemeter](https://www.blazemeter.com/) - Performance testing tool
