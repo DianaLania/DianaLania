@@ -63,8 +63,8 @@ My name is Diana Lania. I am a software tester.
   - [Bugs reported for Guru99 Demo Site - Bank Project](https://drive.google.com/file/d/1_OIMrUsWhHQH0UySkRRPFyJZ8zO29GT1/view?usp=sharing)
   - [GNC](https://github.com/MagdalenaOlak)
 
-## My test cases examples
-  - [Test cases for site "Tekstowo.pl"](https://drive.google.com/file/d/1ntDtBNFb4GHWhssaQyAfjCglTI6xMgkF/view?usp=sharing)
+## My test cases and test scenarios examples
+  - [Test cases for Facebook login page](https://trello.com/c/q0zU8YNt)
   - [Test cases for e-Olak.pl (responsive testing)](https://docs.google.com/spreadsheets/d/1nDiDnWB8NnpGTpesefPGGXRVDg4kp8OMRUn5wCkN7cg/edit?usp=sharing)
   - [Test cases - Guru99 Banking Project](https://docs.google.com/spreadsheets/d/11daAgpAHfilT4yJQmND4xiHN4xhYMWvIQG5AclEiLaE/edit?usp=sharing)
 
