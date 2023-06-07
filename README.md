@@ -6,7 +6,7 @@ My name is Diana Lania. I am a software tester.
 ## Tools
   - [Visual Studio Code](https://code.visualstudio.com) - Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications  
   - [PyCharm](https://www.jetbrains.com/pycharm/) - Integrated development environment
-  - [GitHub](https://github.com/MagdalenaOlak) - A provider of Internet hosting for software development and version control using Git
+  - [GitHub](https://github.com/DianaLania) - A provider of Internet hosting for software development and version control using Git
   - [Jira](https://www.atlassian.com/software/jira0), -[Trello](https://trello.com/) - Issue tracking and project management tool for developers
   - [Postman](https://www.postman.com/) - Testing tool for REST API
   - [Mouse Recorder](https://www.mouserecorder.com/) - mouse and keyboard recording macro
@@ -17,7 +17,7 @@ My name is Diana Lania. I am a software tester.
   - SQL 
   - Python
   - Jupyterlab
-  - Java basics
+  - Java 
   - GIT
   - HTML
   - CSS    
@@ -30,17 +30,21 @@ My name is Diana Lania. I am a software tester.
 
 
 ## Certificates
-  - [Java Certification Course](https://www.programminghub.io/certificates) - ID: 1610296979565
-  - [EITICA Information Technologies Telework Competencies Programme](https://eitci.org/validate) - ID: EITCA/TC/FMP14004773 
-  - [EITC/INT/JOOM Website design and content managment systems fundamentals (Joomla) Programme](https://eitci.org/validate) - ID: EITC/INT/JOOM/NSB14004773
-  - [SQL (Basics)](https://www.hackerrank.com/certificates/bd4f29e6e38d?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate)  - HackerRank
+  - [ISTQB - Foundation Level](https://www.istqb.org/certifications/certified-tester-foundation-level) 
+  - [
+
 
 ## Courses
-  - [Scrum and Agile basics - Theory and Practice](https://www.udemy.com/course/scrum-podstawy-teoretyczne-praktyczne-certyfikacja/) - ude.my/UC-DLFGE9QS
-  - [Ready to work on TestLink in 100 mins](https://www.udemy.com/course/testlink/) - ude.my/UC-WRFX398B  
-  - [Postman - REST API testing](https://www.udemy.com/course/kurs-postman/) - ude.my/UC-V6YBXFPW
-  - [SQL](https://www.sololearn.com)
-  - [Git dla Testerów](https://jaktestowac.pl/git/)  
+  - [The Python Mega Course](https://www.udemy.com/course/the-python-mega-course/) 
+  - [The Complete 2023 Software Tester Bootcamp](https://www.udemy.com/course/testerbootcamp/?kw=the+complete+2023+softwa&src=sac)
+  - [Essential Agile Analysis Skills](https://www.vdab.be/opleidingen/aanbod/O-AMI-850024/cursus/C-AMI-199871/Essentiele_agile_analyse_vaardigheden-online) 
+  - [Webdesign - stylesheets in CSS3](https://www.vdab.be/opleidingen/aanbod/O-AMI-800417/cursus/C-AMI-144883/Webdesign_-_stylesheets_in_CSS3-online)
+  - [Webdesign: HTML5 & CSS3 projecten](https://www.vdab.be/opleidingen/aanbod/O-AMI-800827/cursus/C-AMI-165239/Webdesign__HTML5_%2526_CSS3_projecten-online)  
+  - [Informatica - SQL] (https://www.vdab.be/opleidingen/aanbod/O-AMI-800751/cursus/C-AMI-151643/Informatica_-_SQL-online)
+  - [Informatica - Programmatielogica] (https://www.vdab.be/opleidingen/aanbod/O-AMI-800864/cursus/C-AMI-172238/Informatica__Programmatielogica-online)
+  - [Van programmatielogica naar Javascript] (https://www.vdab.be/opleidingen/aanbod/O-AMI-801138/cursus/C-AMI-203702/Van_programmatielogica_naar_javascript-online)
+  - [Informatica - Scrum] (https://www.vdab.be/opleidingen/aanbod/O-AMI-800575/cursus/C-AMI-146376/Informatica__Scrum-online)
+  - [Essentiële agile analyse vaardigheden] (https://www.vdab.be/opleidingen/aanbod/O-AMI-850024/cursus/C-AMI-199871/Essentiele_agile_analyse_vaardigheden-online)
 
 
 
