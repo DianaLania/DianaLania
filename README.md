@@ -18,9 +18,6 @@ My name is Diana Lania. I am a software tester.
   - [Katalon](https://katalon.com/) - Test automation, release planning
   - [Apache JMeter](https://jmeter.apache.org/) - Test functional behavior and measure performance
 
-
-  
-
 ## Tech skills
   - SQL 
   - Jupyterlab
@@ -36,9 +33,7 @@ My name is Diana Lania. I am a software tester.
   - Python (Paradigm, PysimpleGUI, Pyqt6, Flask, Django]
   - Creating and testing API's
  
-
-
-
+ 
 ## Certificates
   - [ISTQB - Foundation Level](https://www.istqb.org/certifications/certified-tester-foundation-level) 
   - [English language IELTS Certificate](https://www.ielts.org/)
@@ -58,16 +53,14 @@ My name is Diana Lania. I am a software tester.
   - [Essentiële agile analyse vaardigheden](https://www.vdab.be/opleidingen/aanbod/O-AMI-850024/cursus/C-AMI-199871/Essentiele_agile_analyse_vaardigheden-online)
 
 
-
-## My bug reports
-  - [Bugs reported for Guru99 Demo Site - Bank Project](https://drive.google.com/file/d/1_OIMrUsWhHQH0UySkRRPFyJZ8zO29GT1/view?usp=sharing)
-  - [GNC](https://github.com/MagdalenaOlak)
-
 ## My test cases and test scenarios examples
-  - [Test cases for Facebook login page](https://trello.com/c/q0zU8YNt)
-  - [Test cases for e-Olak.pl (responsive testing)](https://docs.google.com/spreadsheets/d/1nDiDnWB8NnpGTpesefPGGXRVDg4kp8OMRUn5wCkN7cg/edit?usp=sharing)
-  - [Test cases - Guru99 Banking Project](https://docs.google.com/spreadsheets/d/11daAgpAHfilT4yJQmND4xiHN4xhYMWvIQG5AclEiLaE/edit?usp=sharing)
+  - [Facebook login](https://trello.com/c/q0zU8YNt)
+  - [Sign-up KFC mobile app](https://trello.com/c/NaoiO5Ii)
+  - [Sign-up [Facebook Website]](https://trello.com/c/q0zU8YNt)
+  - [Udemy Search Scenarios](https://trello.com/c/IhMSADHI)
 
+## My test reports
+  - [ATM Test Exeuction report](https://docs.google.com/spreadsheets/d/11jw0nQrvBobuR4fZjhzbio5QhK7VABx2/edit?usp=drive_link&ouid=100401798670640554852&rtpof=true&sd=true)
 
     
 
