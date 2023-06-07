@@ -5,14 +5,20 @@ My name is Diana Lania. I am a software tester.
 
 ## Tools
   - [Visual Studio Code](https://code.visualstudio.com) - Code editor redefined and optimized for building and debugging modern web and cloud applications  
-  - [PyCharm](https://www.jetbrains.com/pycharm/) - Integrated development environment
+  - [PyCharm](https://www.jetbrains.com/pycharm/), [Intellij](https://www.jetbrains.com/idea/) - Integrated development environments
   - [GitHub](https://github.com/DianaLania) - A provider of Internet hosting for software development and version control using Git
-  - [Jira](https://www.atlassian.com/software/jira0), -[Trello](https://trello.com/) - Issue tracking and project management tool for developers
-  - [MySQL](https://www.mysql.com/) - database management system
-  - [SQL Developer] (https://www.oracle.com/be/database/sqldeveloper/) - integrated development environment
+  - [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/), [Zephyr scale](https://smartbear.com/test-management/zephyr-scale/) - Issue tracking and project management tool for developers
+  - [Confluence](https://www.atlassian.com/software/confluence/) - documentation management
+  - [MySQL](https://www.mysql.com/) - Database management system
+  - [SQL Developer] (https://www.oracle.com/be/database/sqldeveloper/) - Integrated development environment
   - [Postman](https://www.postman.com/) - Testing tool for REST API
-  - [Mouse Recorder](https://www.mouserecorder.com/) - mouse and keyboard recording macro
-  - [xPath Finder](https://chrome.google.com/webstore/detail/xpath-finder/ihnknokegkbpmofmafnkoadfjkhlogph) - xPath finding tool
+  - [Mouse Recorder](https://www.mouserecorder.com/) - Mouse and keyboard recording macro
+  - [Blazemeter] (https://www.blazemeter.com/) - Performance testing tool
+  - [Selenium IDE] (https://www.selenium.dev/selenium-ide/) - Open source record and playback test automation for the web
+  - [Katalon] (https://katalon.com/) - Test automation, release planning
+  - [Apache JMeter] (https://jmeter.apache.org/) - Test functional behavior and measure performance
+
+
   
 
 ## Tech skills
@@ -29,7 +35,7 @@ My name is Diana Lania. I am a software tester.
   - DevTools
   - Python (Paradigm, PysimpleGUI, Pyqt6, Flask, Django]
   - Creating and testing API's
-  - 
+ 
 
 
 
