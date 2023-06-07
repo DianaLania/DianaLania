@@ -13,10 +13,10 @@ My name is Diana Lania. I am a software tester.
   - [SQL Developer] (https://www.oracle.com/be/database/sqldeveloper/) - Integrated development environment
   - [Postman](https://www.postman.com/) - Testing tool for REST API
   - [Mouse Recorder](https://www.mouserecorder.com/) - Mouse and keyboard recording macro
-  - [Blazemeter] (https://www.blazemeter.com/) - Performance testing tool
-  - [Selenium IDE] (https://www.selenium.dev/selenium-ide/) - Open source record and playback test automation for the web
-  - [Katalon] (https://katalon.com/) - Test automation, release planning
-  - [Apache JMeter] (https://jmeter.apache.org/) - Test functional behavior and measure performance
+  - [Blazemeter](https://www.blazemeter.com/) - Performance testing tool
+  - [Selenium IDE](https://www.selenium.dev/selenium-ide/) - Open source record and playback test automation for the web
+  - [Katalon](https://katalon.com/) - Test automation, release planning
+  - [Apache JMeter](https://jmeter.apache.org/) - Test functional behavior and measure performance
 
 
   
@@ -41,8 +41,8 @@ My name is Diana Lania. I am a software tester.
 
 ## Certificates
   - [ISTQB - Foundation Level](https://www.istqb.org/certifications/certified-tester-foundation-level) 
-  - [English language IELTS Certificate] (https://www.ielts.org/)
-  - [German Goethe-Zertifikat C1] (https://www.goethe.de/ins/pl/pl/sta/war/prf/gzc1.cfm)
+  - [English language IELTS Certificate](https://www.ielts.org/)
+  - [German Goethe-Zertifikat C1](https://www.goethe.de/ins/pl/pl/sta/war/prf/gzc1.cfm)
 
 
 ## Courses
@@ -51,11 +51,11 @@ My name is Diana Lania. I am a software tester.
   - [Essential Agile Analysis Skills](https://www.vdab.be/opleidingen/aanbod/O-AMI-850024/cursus/C-AMI-199871/Essentiele_agile_analyse_vaardigheden-online) 
   - [Webdesign - stylesheets in CSS3](https://www.vdab.be/opleidingen/aanbod/O-AMI-800417/cursus/C-AMI-144883/Webdesign_-_stylesheets_in_CSS3-online)
   - [Webdesign: HTML5 & CSS3 projecten](https://www.vdab.be/opleidingen/aanbod/O-AMI-800827/cursus/C-AMI-165239/Webdesign__HTML5_%2526_CSS3_projecten-online)  
-  - [Informatica - SQL] (https://www.vdab.be/opleidingen/aanbod/O-AMI-800751/cursus/C-AMI-151643/Informatica_-_SQL-online)
-  - [Informatica - Programmatielogica] (https://www.vdab.be/opleidingen/aanbod/O-AMI-800864/cursus/C-AMI-172238/Informatica__Programmatielogica-online)
-  - [Van programmatielogica naar Javascript] (https://www.vdab.be/opleidingen/aanbod/O-AMI-801138/cursus/C-AMI-203702/Van_programmatielogica_naar_javascript-online)
-  - [Informatica - Scrum] (https://www.vdab.be/opleidingen/aanbod/O-AMI-800575/cursus/C-AMI-146376/Informatica__Scrum-online)
-  - [Essentiële agile analyse vaardigheden] (https://www.vdab.be/opleidingen/aanbod/O-AMI-850024/cursus/C-AMI-199871/Essentiele_agile_analyse_vaardigheden-online)
+  - [Informatica - SQL](https://www.vdab.be/opleidingen/aanbod/O-AMI-800751/cursus/C-AMI-151643/Informatica_-_SQL-online)
+  - [Informatica - Programmatielogica](https://www.vdab.be/opleidingen/aanbod/O-AMI-800864/cursus/C-AMI-172238/Informatica__Programmatielogica-online)
+  - [Van programmatielogica naar Javascript](https://www.vdab.be/opleidingen/aanbod/O-AMI-801138/cursus/C-AMI-203702/Van_programmatielogica_naar_javascript-online)
+  - [Informatica - Scrum](https://www.vdab.be/opleidingen/aanbod/O-AMI-800575/cursus/C-AMI-146376/Informatica__Scrum-online)
+  - [Essentiële agile analyse vaardigheden](https://www.vdab.be/opleidingen/aanbod/O-AMI-850024/cursus/C-AMI-199871/Essentiele_agile_analyse_vaardigheden-online)
 
 
 
