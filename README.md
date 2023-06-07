@@ -8,6 +8,8 @@ My name is Diana Lania. I am a software tester.
   - [PyCharm](https://www.jetbrains.com/pycharm/) - Integrated development environment
   - [GitHub](https://github.com/DianaLania) - A provider of Internet hosting for software development and version control using Git
   - [Jira](https://www.atlassian.com/software/jira0), -[Trello](https://trello.com/) - Issue tracking and project management tool for developers
+  - [MySQL](https://www.mysql.com/) - database management system
+  - [SQL Developer] (https://www.oracle.com/be/database/sqldeveloper/) - integrated development environment
   - [Postman](https://www.postman.com/) - Testing tool for REST API
   - [Mouse Recorder](https://www.mouserecorder.com/) - mouse and keyboard recording macro
   - [xPath Finder](https://chrome.google.com/webstore/detail/xpath-finder/ihnknokegkbpmofmafnkoadfjkhlogph) - xPath finding tool
@@ -15,7 +17,6 @@ My name is Diana Lania. I am a software tester.
 
 ## Tech skills
   - SQL 
-  - Python
   - Jupyterlab
   - Java 
   - GIT
@@ -26,12 +27,16 @@ My name is Diana Lania. I am a software tester.
   - Software testing
   - Reporting bugs      
   - DevTools
+  - Python (Paradigm, PysimpleGUI, Pyqt6, Flask, Django]
+  - Creating and testing API's
+  - 
 
 
 
 ## Certificates
   - [ISTQB - Foundation Level](https://www.istqb.org/certifications/certified-tester-foundation-level) 
-  - [
+  - [English language IELTS Certificate] (https://www.ielts.org/)
+  - [German Goethe-Zertifikat C1] (https://www.goethe.de/ins/pl/pl/sta/war/prf/gzc1.cfm)
 
 
 ## Courses
