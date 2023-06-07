@@ -4,7 +4,7 @@
 My name is Diana Lania. I am a software tester.
 
 ## Tools
-  - [Visual Studio Code](https://code.visualstudio.com) - Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications  
+  - [Visual Studio Code](https://code.visualstudio.com) - Code editor redefined and optimized for building and debugging modern web and cloud applications  
   - [PyCharm](https://www.jetbrains.com/pycharm/) - Integrated development environment
   - [GitHub](https://github.com/DianaLania) - A provider of Internet hosting for software development and version control using Git
   - [Jira](https://www.atlassian.com/software/jira0), -[Trello](https://trello.com/) - Issue tracking and project management tool for developers
