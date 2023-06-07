@@ -62,6 +62,9 @@ My name is Diana Lania. I am a software tester.
 ## My test reports
   - [ATM Test Exeuction report](https://docs.google.com/spreadsheets/d/11jw0nQrvBobuR4fZjhzbio5QhK7VABx2/edit?usp=drive_link&ouid=100401798670640554852&rtpof=true&sd=true)
 
+## My Python projects
+ - [Github repositories](https://github.com/DianaLania?tab=repositories)
+
     
 
 
