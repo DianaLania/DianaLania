@@ -51,7 +51,7 @@ I am a dedicated and proactive software tester with one year of experience in th
   - [Informatica - Programmatielogica](https://www.vdab.be/opleidingen/aanbod/O-AMI-800864/cursus/C-AMI-172238/Informatica__Programmatielogica-online)
   - [Van programmatielogica naar Javascript](https://www.vdab.be/opleidingen/aanbod/O-AMI-801138/cursus/C-AMI-203702/Van_programmatielogica_naar_javascript-online)
   - [Informatica - Scrum](https://www.vdab.be/opleidingen/aanbod/O-AMI-800575/cursus/C-AMI-146376/Informatica__Scrum-online)
-  - [Essentiële agile analyse vaardigheden](https://www.vdab.be/opleidingen/aanbod/O-AMI-850024/cursus/C-AMI-199871/Essentiele_agile_analyse_vaardigheden-online)
+
 
 
 ## My test cases and test scenarios examples
