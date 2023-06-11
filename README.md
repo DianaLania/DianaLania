@@ -1,7 +1,8 @@
 # Portfolio
 
 ## About me
-My name is Diana Lania. I am a software tester.
+My name is Diana Lania. 
+I am a dedicated and proactive software tester with one year of experience in the field. I am now actively looking for opportunities to apply my skills and experience as a Software Tester.
 
 ## Tools
   - [Visual Studio Code](https://code.visualstudio.com) - Code editor redefined and optimized for building and debugging modern web and cloud applications  
