@@ -61,7 +61,7 @@ I am a dedicated and proactive software tester with one year of experience in th
   - [Udemy Search Scenarios](https://trello.com/c/IhMSADHI)
 
 ## My test reports
-  - [ATM Test Exeuction report](https://docs.google.com/spreadsheets/d/11jw0nQrvBobuR4fZjhzbio5QhK7VABx2/edit?usp=drive_link&ouid=100401798670640554852&rtpof=true&sd=true) - Rest API automate tests
+  - [ATM Test Execution report](https://docs.google.com/spreadsheets/d/11jw0nQrvBobuR4fZjhzbio5QhK7VABx2/edit?usp=drive_link&ouid=100401798670640554852&rtpof=true&sd=true) - Rest API automate tests
   - [API User List test run](https://docs.google.com/spreadsheets/d/11jw0nQrvBobuR4fZjhzbio5QhK7VABx2/edit?usp=drive_link&ouid=100401798670640554852&rtpof=true&sd=true) - Rest API automate tests
   - [Calculator test report](https://drive.google.com/file/d/16XJ9749cgFRIWD2xgWw7WSCi2DJA3nXi/view?usp=drive_link) - SOAP API automate tests
 
