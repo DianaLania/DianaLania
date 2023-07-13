@@ -18,6 +18,7 @@ I am a dedicated and proactive software tester with one year of experience in th
   - [Selenium IDE](https://www.selenium.dev/selenium-ide/) - Open source record and playback test automation for the web
   - [Katalon](https://katalon.com/) - Test automation, release planning
   - [Apache JMeter](https://jmeter.apache.org/) - Test functional behavior and measure performance
+  - [Jenkins](https://www.jenkins.io/) - Executing automation tests and creating test reports
 
 ## Tech skills
   - SQL 
