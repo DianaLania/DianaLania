@@ -46,6 +46,7 @@ I am a dedicated and proactive software tester with one year of experience in th
   - [The Python Mega Course](https://www.udemy.com/course/the-python-mega-course/) 
   - [The Complete 2023 Software Tester Bootcamp](https://www.udemy.com/course/testerbootcamp/?kw=the+complete+2023+softwa&src=sac)
   - [Essential Agile Analysis Skills](https://www.vdab.be/opleidingen/aanbod/O-AMI-850024/cursus/C-AMI-199871/Essentiele_agile_analyse_vaardigheden-online) 
+  - [Selenium Python Step by Step for beginners with framework](https://www.udemy.com/course/selenium-python-step-by-step-for-beginners/)
   - [Webdesign - stylesheets in CSS3](https://www.vdab.be/opleidingen/aanbod/O-AMI-800417/cursus/C-AMI-144883/Webdesign_-_stylesheets_in_CSS3-online)
   - [Webdesign: HTML5 & CSS3 projecten](https://www.vdab.be/opleidingen/aanbod/O-AMI-800827/cursus/C-AMI-165239/Webdesign__HTML5_%2526_CSS3_projecten-online)  
   - [Informatica - SQL](https://www.vdab.be/opleidingen/aanbod/O-AMI-800751/cursus/C-AMI-151643/Informatica_-_SQL-online)
