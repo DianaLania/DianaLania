@@ -33,7 +33,7 @@ I am a dedicated and proactive software tester with one year of experience in th
   - Reporting bugs      
   - DevTools
   - Python (Paradigm, PysimpleGUI, Pyqt6, Flask, Django]
-  - Creating and testing API's
+  - Testing API's
  
  
 ## Certificates
