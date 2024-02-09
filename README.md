@@ -65,6 +65,7 @@ I am a dedicated and proactive software tester with one year of experience in th
   - [ATM Test Execution report](https://docs.google.com/spreadsheets/d/11jw0nQrvBobuR4fZjhzbio5QhK7VABx2/edit?usp=drive_link&ouid=100401798670640554852&rtpof=true&sd=true) - Rest API tests
   - [API User List test run](https://docs.google.com/spreadsheets/d/11jw0nQrvBobuR4fZjhzbio5QhK7VABx2/edit?usp=drive_link&ouid=100401798670640554852&rtpof=true&sd=true) - Rest API tests
   - [Calculator test report](https://drive.google.com/file/d/16XJ9749cgFRIWD2xgWw7WSCi2DJA3nXi/view?usp=drive_link) - SOAP API tests
+  - [UploadFile test report](https://drive.google.com/file/d/1DhDVFDr0_duEK5ENy0hWAqkpz3N1Cb_F/view?usp=drive_link) - Emailable TestNG report
 
 ## My Python projects
  - [Github repositories](https://github.com/DianaLania?tab=repositories)
